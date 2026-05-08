@@ -6,7 +6,7 @@ appTitle=ISHIKAWADESU CODM
 
 game1=FREE VERSION|lib1.so|FREE Mod With Skinhack. Go to @ishikawach telegram channel to get the free key.
 
-game2=BETA VERSION|lib.so|BETA Users. Can cause 10y ban, use at your one risk
+game2=BETA VERSION|lib2.so|BETA Users. Can cause 10y ban, use at your one risk
 
 game3=VIP VERSION|lib3.so|VIP Users. You can only login with using a VIP KEY.
 
