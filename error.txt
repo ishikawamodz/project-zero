@@ -2,7 +2,7 @@ serverBaseUrl=https://ren.x10.mx/IshiLib/
 
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
-appTitle=ISHIKAWADESU CODM
+appTitle=ISHIKAWADES CODM
 
 game1=FREE VERSION|lib1.so|FREE Mod With Skinhack. Go to @ishikawach telegram channel to get the free key.
 
