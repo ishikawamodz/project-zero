@@ -1,4 +1,4 @@
-serverBaseUrl=https://ren.lovestoblog.com/IshiLib/
+serverBaseUrl=https://ren.x10.mx/IshiLib/
 
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
