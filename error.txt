@@ -1,4 +1,4 @@
-serverBaseUrl=https://ren.x10.mx/IshiLib/
+serverBaseUrl=https://desuwa.elementfx.com/IshiLib/
 
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
