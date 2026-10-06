@@ -6,6 +6,12 @@
         "displayName": "TEST [LOW]",
         "packageName": "com.garena.game.codm",
         "libName": "loader1.so"
+    },
+    
+    {
+        "displayName": "TEST 2[LOW]",
+        "packageName": "com.garena.game.codm",
+        "libName": "lib4.so"
     }
   ]
 }
